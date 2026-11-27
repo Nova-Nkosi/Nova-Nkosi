@@ -11,9 +11,7 @@ Currently, I am building web-based products and learning how to apply programmin
 
 I believe good financial tools should do more than calculate correctly. They should save time, reduce errors, and make complex work easier to understand.
 
----
 
-[[LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/slindelokuhle-nkosi)
 [[Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsjust_sli)
 [[GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nova-nkosi)
 
