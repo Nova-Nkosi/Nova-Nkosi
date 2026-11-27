@@ -19,7 +19,7 @@ I believe good financial tools should do more than calculate correctly. They sho
 
 ### ⚙️ Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,mysql,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,mysql,github,vscode,R)
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
